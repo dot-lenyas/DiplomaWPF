@@ -18,3 +18,5 @@ C:\Users\lenya\source\repos\DiplomaWpf\DiplomaWpf\bin\Debug\Localization.dll
 C:\Users\lenya\source\repos\DiplomaWpf\DiplomaWpf\bin\Debug\ParserTools.dll
 C:\Users\lenya\source\repos\DiplomaWpf\DiplomaWpf\bin\Debug\SyntaxTree.dll
 C:\Users\lenya\source\repos\DiplomaWpf\DiplomaWpf\obj\Debug\DiplomaWpf.csproj.CopyComplete
+C:\Users\lenya\source\repos\DiplomaWpf\DiplomaWpf\obj\Debug\TreeWindow.g.cs
+C:\Users\lenya\source\repos\DiplomaWpf\DiplomaWpf\obj\Debug\TreeWindow.baml

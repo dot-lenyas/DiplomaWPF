@@ -107,6 +107,8 @@ namespace DiplomaWpf
             // parser.root содержит корень синтаксического дерева
             TreeNode<string> root = new TreeNode<string>("BEGIN");
             PascalABCCompiler.SimplePascalParser.SimplePascalLanguageParser.PrintNode(parser.root, root);
+            TreeWindow treeWindow = new TreeWindow(root);
+            treeWindow.Show();
         }
     }
 }
